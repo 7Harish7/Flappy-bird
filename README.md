@@ -1,10 +1,18 @@
-# Flappy-bird
+[![Run on Repl.it](https://repl.it/badge/github/techwithtim/NEAT-Flappy-Bird)](https://repl.it/github/techwithtim/NEAT-Flappy-Bird)
+# NEAT-Flappy-Bird
+An AI that plays flappy bird! Using the NEAT python module.
 
-* Requirements
-  1) Python
-  2) PyGame
+# Instructions
+Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
 
-* This project aims to create a Flappy Bird game using PyGame. Players control a bird, avoiding pipes while gaining points. The game ends upon collision.
-* All the sounds used in the game is acquired through the youtube music library 
-![Flappy Bird 1](https://github.com/7Harish7/Flappy-bird/assets/87466887/d00be498-0596-4968-a570-95dda9a1ff4d)
-![Flappy bird](https://github.com/7Harish7/Flappy-bird/assets/87466887/e36c9a18-94b9-451c-bbf1-79913a012fc1)
+# Video Tutorial
+
+You can view on the details of this project here: https://www.youtube.com/watch?v=OGHA-elMrxI
+
+# Run in Gitpod
+
+You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
+
+If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
